@@ -775,17 +775,17 @@ h1, h2, h3, h4, h5, h6, p{
     color: var(--background-primary);
 }
 
-.copy-block{
+/* .copy-block{
     padding-top: 18px;
     border-top: 1px solid rgba(255, 255, 255, 0.1);
-}
+} */
 
-.footer .copy-right{
+/* .footer .copy-right{
     font-size: 12px;
     line-height: 2;
     text-align: center;
     letter-spacing: 0.03em;
-}
+} */
 
 .social-container{
     margin-left: 69px;
